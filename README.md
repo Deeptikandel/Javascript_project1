@@ -1,2 +1,2 @@
 # Simple-calculator
-Demo link: https://github.com/Deeptikandel/Simple-calculator.git
+Demo link: https://deeptikandel.github.io/Simple-calculator/.
