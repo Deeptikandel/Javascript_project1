@@ -1,3 +1,4 @@
 # Simple-calculator
-## Calculator that can perform simple calculations.
+This is a simple calculator that can perform normal calculations. 
+
 Demo link: https://deeptikandel.github.io/Simple-calculator/.
